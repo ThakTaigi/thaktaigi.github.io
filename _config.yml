@@ -1,0 +1,24 @@
+title: ChhoeTaigi Chheh-tha̍k-á
+subtitle: ChhoeTaigi冊讀á
+name: Tâi-bûn Ke-si Mī
+email: taibunkesimi+chhehthaka@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  ChhoeTaigi Chheh-tha̍k-á, Tâi-bûn Ke-si Mī
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://thak.taigi.info" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/images/logo.jpeg"
+
+# Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-include-cache
+
+# theme config
+minimal_mistakes_skin: dark
+atom_feed:
+  hide: true
+search: false
+
+include:
+  - _pages
