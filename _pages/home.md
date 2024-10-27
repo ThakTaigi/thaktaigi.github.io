@@ -9,9 +9,12 @@ layout: splash
 
 # ChhoeTaigi冊讀á
 
-ChhoeTaigi冊讀á是hō͘ [ChhoeTaigi台語辭典⁺](https://chhoe.taigi.info/){:target="_blank"} ē-tàng對照原資料ê ke-si，請支持 [Tâi-bûn Ke-si Mī 台文雞絲麵](https://linktr.ee/taibunkesimi){:target="_blank"} 計劃。
+![logo](/assets/images/logo.jpeg)
 
-你ē-sái直接用bu-láu-jah (browser) 內底「chhiau-chhōe (search)」ê功能來chhōe關鍵詞。
+### Soat-bêng (說明)
+
+- ChhoeTaigi冊讀á是hō͘ [ChhoeTaigi台語辭典⁺](https://chhoe.taigi.info/){:target="_blank"} ē-tàng對照原資料ê ke-si，請支持 [Tâi-bûn Ke-si Mī 台文雞絲麵](https://linktr.ee/taibunkesimi){:target="_blank"} 計劃。
+- 你ē-sái直接用bu-láu-joh (browser) 內底「chhiau-chhōe (search)」ê功能來chhōe關鍵詞。
 
 ## Sû-tián (辭典)
 

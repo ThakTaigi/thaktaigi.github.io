@@ -1,9 +1,15 @@
-# main:
-#   - title: "Posts"
-#     url: /posts/
-#   - title: "Categories"
-#     url: /categories/
-#   - title: "Tags"
-#     url: /tags/
-#   - title: "About"
-#     url: /about/
+main:
+  - title: "辭典"
+    url: /#s%C3%BB-ti%C3%A1n-%E8%BE%AD%E5%85%B8
+  - title: "字典"
+    url: /#j%C4%AB-ti%C3%A1n-%E5%AD%97%E5%85%B8
+  - title: "日本時代單語名彙集"
+    url: /#ji%CC%8Dt-p%C3%BAn-s%C3%AE-t%C4%81i-tan-g%C3%AD-mi%C3%A2-l%C5%ABi-chi%CC%8Dp-%E6%97%A5%E6%9C%AC%E6%99%82%E4%BB%A3%E5%96%AE%E8%AA%9E%E5%90%8D%E5%BD%99%E9%9B%86
+  - title: "台灣文學著作"
+    url: /#t%C3%A2i-o%C3%A2n-b%C3%BBn-ha%CC%8Dk-t%C3%B9-chok-%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E8%91%97%E4%BD%9C
+  - title: "ChhoeTaigi台語辭典⁺"
+    url: https://chhoe.taigi.info/
+    target: _blank
+  - title: "Tâi-bûn Ke-si Mī 台文雞絲麵"
+    url: https://linktr.ee/taibunkesimi
+    target: _blank
