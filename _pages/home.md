@@ -9,6 +9,8 @@ layout: splash
 
 # ChhoeTaigi冊讀á
 
+![logo](/assets/images/logo.png)
+
 ### Soat-bêng (說明)
 
 - ChhoeTaigi冊讀á是hō͘ [ChhoeTaigi台語辭典⁺](https://chhoe.taigi.info/){:target="_blank"} ē-tàng對照原資料ê ke-si，請支持 [Tâi-bûn Ke-si Mī 台文雞絲麵](https://linktr.ee/taibunkesimi){:target="_blank"} 計劃。
