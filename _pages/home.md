@@ -9,7 +9,7 @@ layout: splash
 
 # ChhoeTaigi冊讀á
 
-![logo](/assets/images/logo.jpeg)
+![logo](/assets/images/logo.png)
 
 ### Soat-bêng (說明)
 

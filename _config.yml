@@ -1,12 +1,12 @@
-title: ChhoeTaigi Chheh-tha̍k-á
-subtitle: ChhoeTaigi冊讀á
+title: ThakTaigi。ChhoeTaigi冊讀仔
+subtitle: ChhoeTaigi Chheh-tha̍k-á
 name: Tâi-bûn Ke-si Mī
 email: taibunkesimi+chhehthaka@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   ChhoeTaigi Chheh-tha̍k-á, Tâi-bûn Ke-si Mī
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://thak.taigi.info" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/images/logo.jpeg"
+logo: "/assets/images/logo.png"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
